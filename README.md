@@ -1,9 +1,12 @@
 # challenge-1
 
 ## Refactored code to:
-* Optimized for search engines.
+* Optimize for search engines.
 * Utilize semantic HTML.
 * Accesible alt tags.
-* Consolidated CSS.
+* Consolidate CSS.
+ 
 
-![challenge-1]()
+* link to deployed app: https://tari-star.github.io/challenge-1/
+
+![challenge-1](assets/images/callenge-1.png)
